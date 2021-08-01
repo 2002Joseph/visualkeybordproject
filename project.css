@@ -1,0 +1,86 @@
+
+
+div{
+    display: inline-block;
+  border-radius: 5px;
+
+    width: 30px;
+    height: 30px;
+    
+   
+
+cursor: pointer;
+
+border: 1.2px solid red;
+}
+div:hover{
+  background-color: green;
+}
+input[type=text]{
+  width: 500px;
+  padding: 20px;
+  margin-left: 180px;
+  border-radius: 5px;
+}
+.first{
+    width: 40px;
+    height: 30px;
+    padding: 2px;
+}
+.second{
+  width: 53px;
+  height: 60px;
+  padding: 2.3px;
+  
+}
+.third{
+  padding: 2.3px;
+  width: 50px;
+  height: 60px;
+}
+  #NumLK{
+    width:60px;
+ height: 30px;
+ 
+}
+
+
+#Pause{
+  width:60px;
+height: 30px;
+
+}
+.fourth{
+  width:50px;
+  height: 50px;
+  
+  padding: 2.3px;
+ 
+  
+  
+}
+.fifth{
+  padding: 2.3px;
+  width:50px;
+  height: 50px;
+  text-align: center;
+}
+.sixth{
+  width:50px;
+  height: 50px;
+  text-align: center;
+  padding: 2.3px;
+}
+#Space{
+  width: 220px;
+}
+#Enter{
+  height: 60px;
+ 
+  width: 90px;
+text-align: center;
+}
+
+#Shift{
+  width: 100px;
+}
